@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myreactappcopy/static/css/main.27e9f719.css",
+    "main.js": "/myreactappcopy/static/js/main.b485cb00.js",
+    "static/js/787.16f177e3.chunk.js": "/myreactappcopy/static/js/787.16f177e3.chunk.js",
+    "static/media/seatal.jpg": "/myreactappcopy/static/media/seatal.0e49be7b17b38ff7f0ec.jpg",
+    "index.html": "/myreactappcopy/index.html",
+    "main.27e9f719.css.map": "/myreactappcopy/static/css/main.27e9f719.css.map",
+    "main.b485cb00.js.map": "/myreactappcopy/static/js/main.b485cb00.js.map",
+    "787.16f177e3.chunk.js.map": "/myreactappcopy/static/js/787.16f177e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e9f719.css",
+    "static/js/main.b485cb00.js"
+  ]
+}
